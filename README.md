@@ -56,14 +56,14 @@ Given audio signal \( x(t) \) sampled at \( f_s \):
 
 Segmented signals:
 
-\[
+$$
 \begin{aligned}
 y_{\text{full}}(t) &= x(t) \\
 y_{\text{speech}}(t) &= x(t) \times m_s(t) \\
 y_{\text{voiced}}(t) &= x(t) \times m_v(t) \\
 y_{\text{unvoiced}}(t) &= x(t) \times m_u(t)
 \end{aligned}
-\]
+$$
 
 ---
 
