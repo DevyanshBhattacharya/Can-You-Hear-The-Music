@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+jupyter
+notebook
+tqdm
+scipy
+joblib
+webrtcvad
